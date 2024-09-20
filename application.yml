@@ -1,3 +1,6 @@
+
+name:
+    local-use
 eureka:
     instance:
       hostname: localhost
