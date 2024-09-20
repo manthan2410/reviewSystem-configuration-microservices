@@ -1,4 +1,5 @@
-
+server:
+   port: 7786
 name:
     dev
 eureka:
