@@ -2,7 +2,7 @@
 name:
     local-use
 server:
- port: 7846
+ port: 8081
 eureka:
     instance:
       hostname: localhost
